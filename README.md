@@ -1,2 +1,7 @@
 # Random_Number_Game
-Created with CodeSandbox
+최초 코드샌드박스와의 연동
+노마더 코더에서 배운 내용 
+
+## 가장 어려웠던 부분
+솔직히 연결고리를 어떻게 맺냐의 문제인 것 같다.
+앞으로 연결고리와 DOM을 조금 더 생각해보자
